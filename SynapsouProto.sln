@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{609F5107-15C9-AF71-FEA0-DFEF4EBE696C}") = "SynapsouProto", "Assembly-CSharp.csproj", "{E8E833D4-EAFE-F0B5-8D32-47373626E594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E833D4-EAFE-F0B5-8D32-47373626E594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E833D4-EAFE-F0B5-8D32-47373626E594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E833D4-EAFE-F0B5-8D32-47373626E594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E833D4-EAFE-F0B5-8D32-47373626E594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
